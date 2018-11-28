@@ -4,9 +4,7 @@ some research
 ## even more fruit
 some more research and cool stuff and no so cool stuff
 
-## usage
-
-## help
+this is not longer useful, lefg kjerhgdjksnksdvfnbf kuz  uze fh hjs g
 
 ## references and stuff
  some content
