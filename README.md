@@ -8,6 +8,7 @@ some more research and cool stuff and no so cool stuff
 this program should do what otheres 
 
 ## help
+this is not longer useful, but still
 
 
 ## references and stuff
