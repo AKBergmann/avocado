@@ -11,3 +11,5 @@ some more research and cool stuff and no so cool stuff
 ## references and stuff
  some content
  more content
+
+and some adition to check automatical merging 
